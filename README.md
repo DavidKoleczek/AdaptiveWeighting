@@ -1,6 +1,6 @@
 # AdaptiveWeighting
 
-### This is the repository for the article Adaptive Weighting: Ensembling Forecasts AdaBoost-Style and More (MAKE THIS A LINK)
+### This is the repository for the article  [Adaptive Weighting: Ensembling Forecasts AdaBoost-Style and More](http://davidkoleczek.me/AdaptiveWeighting/index.html)
 
 Code implementing AdaWeights and gradient descent and code to reproduce the various experiments and models can be found here. It was written and tested using Python 3.7.4 64-bit on Windows and a list of package requirements is provided in <code>requirements.txt</code>.
 
